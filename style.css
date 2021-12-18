@@ -1,0 +1,95 @@
+H1{
+	color:black ;
+	font-size:40PX;
+	word-spacing: 2px;
+
+}
+H2{
+	color: black;
+	text-align: center;
+	font-size: 20PX;
+	word-spacing: 2px
+}
+H3{
+	color: darkgoldenrod;
+	font-size: 18PX;
+	word-spacing: 2px
+
+}
+H4{
+	color: black;
+	font-size: 16PX;
+	word-spacing: 2px
+}
+
+Body {
+	font-family: Arial;
+	letter-spacing: 2PX;
+	text-align: justify;
+	text-decoration: none;
+	font-weight: lighter;
+	font-weight: normal;
+	font-size: 11px;
+	word-spacing: 5px; 
+	background: lightgray;
+
+}
+p{
+	text-align: justify
+	letter-spacing: 1px
+	font-size: 14px;
+	word-spacing: 2px;}
+a{
+	text-decoration: none;
+	color: royalblue;
+	font-size: 15px;
+	word-spacing: 2px
+}
+
+.header{
+	background: floralwhite;
+	border-radius: 100px;
+	text-align: center;
+margin-left: 500px;
+margin-right: 500px}
+
+.indentity { background: floralwhite; 
+text-align: center;
+border-radius: 100PX;
+margin-left: 500px;
+margin-right: 500px}
+
+.school {background: aliceblue ;
+text-align: center;
+border-radius: 200px; 
+height: 50PX;
+margin-left: 400PX ;
+margin-right:400PX ;
+}
+
+.schoolname {background:floralwhite ;
+text-align: left;
+border-radius: 30PX;
+margin-left: 450px;
+margin-right: 450px;}
+
+.profil{ border-radius: 100px;
+ max-height: 200PX;}
+
+ .autre {background: aliceblue ;
+text-align: center;
+border-radius: 200px; 
+height: 50PX;
+margin-left: 600PX ;
+margin-right:600PX ;}
+
+.centre {background: aliceblue ;
+text-align: center;
+border-radius: 200px; 
+height: 50PX;
+margin-left: 500PX ;
+margin-right:500PX ;}
+
+ .Link {max-height: 100PX; border-radius: 50PX}
+ .Insta{ max-height: 100px;border-radius: 50PX }
+
